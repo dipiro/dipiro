@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dzmitry</h1>
-<h3 align="center">iOS Software Engineer with 4 years of experience in developing and publishing applications for Apple devices.</h3>
+<h3 align="center">iOS Software Engineer with 4 years of experience for Apple devices.</h3>
 
 - 📖 Always learning 
 - 🕸️ [LinkedIn](https://www.linkedin.com/in/dmitry-pirozhnik/)
