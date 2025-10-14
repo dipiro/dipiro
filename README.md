@@ -2,7 +2,7 @@
 <h3 align="center">iOS Software Engineer with 4 years of experience for Apple devices.</h3>
 
 - 📖 Always learning
-- 💼 [Portfolio](https://dipiro.github.io)
+- 💼 [Portfolio/Blog]([https://dipiro.github.io](https://piro.craft.me/))
 - 🕸️ [LinkedIn](https://www.linkedin.com/in/dmitry-pirozhnik/)
 - 🧑‍💻 [App Store](https://apps.apple.com/us/developer/dzmitry-pirozhnik/id1736014520 )
 - 📍 New York, USA
